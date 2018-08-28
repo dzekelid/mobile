@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1165-spoti
 x-kinRank: "8"
 x-alexaRank: "132"
 tags: Mobile
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/spotify/apis.md
 specificationVersion: "0.14"
 apis: []

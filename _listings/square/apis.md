@@ -8,11 +8,44 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-squar
 x-kinRank: "9"
 x-alexaRank: "2433"
 tags: Mobile
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/square/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Square Connect - Provides summary information for all payments taken by a
+    merchant or any of the merchant's mobile staff during a date range. Date ranges
+    cannot exceed one year in length. See Date ranges for details of inclusive and
+    exclusive dates.
+  x-api-slug: v1location-idpayments-get
+  description: Provides summary information for all payments taken by a merchant or
+    any of the merchant's mobile staff during a date range. Date ranges cannot exceed
+    one year in length. See Date ranges for details of inclusive and exclusive dates.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/square/v1location-idpayments-get-openapi.md
+- name: Square Connect - Provides the details for all refunds initiated by a merchant
+    or any of the merchant's mobile staff during a date range. Date ranges cannot
+    exceed one year in length.
+  x-api-slug: v1location-idrefunds-get
+  description: Provides the details for all refunds initiated by a merchant or any
+    of the merchant's mobile staff during a date range. Date ranges cannot exceed
+    one year in length.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/square/v1location-idrefunds-get-openapi.md
 x-common:
 - type: x-website
   url: http://square.com

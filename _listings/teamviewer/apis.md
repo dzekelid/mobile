@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1943-teamv
 x-kinRank: "7"
 x-alexaRank: "18506"
 tags: Mobile
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/teamviewer/apis.md
 specificationVersion: "0.14"
 apis: []

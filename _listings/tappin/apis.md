@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/949-tappin
 x-kinRank: "8"
 x-alexaRank: "595581"
 tags: Mobile
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/tappin/apis.md
 specificationVersion: "0.14"
 apis: []

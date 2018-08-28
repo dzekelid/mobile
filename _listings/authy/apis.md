@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1306-authy
 x-kinRank: "9"
 x-alexaRank: "64248"
 tags: Mobile
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/authy/apis.md
 specificationVersion: "0.14"
 apis: []

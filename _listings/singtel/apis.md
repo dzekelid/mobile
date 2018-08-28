@@ -18,8 +18,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/6
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Mobile
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/mobile/master/_listings/singtel/apis.md
 specificationVersion: "0.14"
 apis: []
